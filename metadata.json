@@ -10,7 +10,7 @@
     { "trait_type": "Mint Authority", "value": "Revoked" },
     { "trait_type": "Freeze Authority", "value": "Revoked" },
     { "trait_type": "Metadata", "value": "Immutable" },
-    { "trait_type": "Utility", "value": "BitGuard Security Spectrum" }
+    { "trait_type": "Utility", "value": "BitLab Blockchain Security Spectrum" }
   ],
   "properties": {
     "files": [
